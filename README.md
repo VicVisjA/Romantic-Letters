@@ -73,12 +73,19 @@ This demonstrates:
 🌟 Strengths of the Project
 
 ✅ Fully responsive
+
 ✅ Clean visual design
+
 ✅ Strong use of modern CSS
+
 ✅ Smooth animations
+
 ✅ Interactive UI
+
 ✅ No external dependencies
+
 ✅ Creative concept execution
+
 ✅ Proper overflow handling inside scrollable cards
 
 🎯 To improve this project:
