@@ -10,6 +10,8 @@ Demonstrate frontend development skills using pure web technologies
 It transforms a simple love letter into a small interactive web application.
 
 📌 Technologies Used
+
+
 1️⃣ HTML5
 Used for:
 -Semantic structure of the webpage
@@ -23,6 +25,7 @@ Key elements:
 -Responsive <meta viewport> configuration
 -Structured container layout
 -Multiple reusable .envelope-wrap components
+
 
 2️⃣ CSS3 (Advanced Styling & Animations)
 This project heavily relies on modern CSS features:
