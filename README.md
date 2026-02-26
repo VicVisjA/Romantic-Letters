@@ -88,3 +88,8 @@ Optimize animations
 Polish the text
 Improve performance
 Structure it like a real production project
+
+🍿Video
+https://github.com/user-attachments/assets/57c707e9-fcf4-4f56-a66d-22ce4389f3fe
+
+
